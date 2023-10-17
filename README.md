@@ -1,6 +1,6 @@
 # Aircraft Safety Analysis
 
-**Author**: [Christopher Miley](www.linkedin.com/in/christopher-ryan-miley)
+**Author**: Christopher Miley
 
 ## Overview
 
@@ -22,15 +22,15 @@ This project uses descriptive analysis, including analysis of injured passengers
 
 Companies like Cessna have the biggest history of accidents and fatalities, but companies like Boeing have a far worse ratio of accidents to fatalities. 
 
-![top_five_make](./images/Top 5 Make Double Bar.jpg)
+![top_five_make](./images/Top_Five_Make_Double_Bar.jpg)
 
 The severity of passenger injuries are clearly and directly impacted by the severity of the aircraft damage.
 
-![aircraft_injuries](./images/Aircraft Injuries By Year.jpg)
+![aircraft_injuries](./images/Aircraft_Injuries_By_Year.jpg)
 
 There is a negative correlation between the number of engines on an aircraft involved in an accident and the number of fatalities as a result of the accident. In other words, the higher the number of engines, the lower the number of fatalities. 
 
-![number_of_engines](./images/Engines and Fatalities.jpg)
+![number_of_engines](./images/Engines_and_Fatalities.jpg)
 
 ## Conclusions
 
@@ -53,7 +53,7 @@ For additional info, contact Christopher Miley at [chrismiley87@gmail.com](mailt
 ```
 ├── data
 ├── images
-├── notebook.ipynb
 ├── Presentation.pdf
-└── README.md
+├── README.md
+└── notebook.ipynb
 ```
